@@ -1,4 +1,4 @@
-# Student Management System
+## Student Management System
 
 A simple Student Management System built using Python and SQLite.
 
@@ -15,5 +15,6 @@ A simple Student Management System built using Python and SQLite.
 # How to Run
 1. Clone the repository
 2. Run the Python file
+
 
 
