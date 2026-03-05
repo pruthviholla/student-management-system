@@ -2,19 +2,20 @@
 
 A simple Student Management System built using Python and SQLite.
 
-# Features
+## Features
 - Add student details
 - View student records
 - Update student information
 - Delete student records
 
-# Technologies Used
+## Technologies Used
 - Python
 - SQLite
 
-# How to Run
+## How to Run
 1. Clone the repository
 2. Run the Python file
+
 
 
 
